@@ -1,1 +1,1 @@
-# This ia rock paper scissor
+# This is a rock paper scissor game code
